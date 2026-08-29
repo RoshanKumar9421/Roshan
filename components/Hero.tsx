@@ -17,10 +17,10 @@ export function Hero() {
         </div>
         <div className="flex flex-col gap-2">
           <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight">
-            Roshan
+            Roshan Kumar 
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground font-medium">
-            DSA in CPP & Competitive Programmer And Learning Ai engineering
+            Intern At Upchar Health | DSA in CPP & Competitive Programmer || And Learning Ai engineering
           </p>
           <div className="flex items-center gap-2 text-muted-foreground mt-2">
             <MapPin className="w-4 h-4" />
@@ -51,13 +51,13 @@ export function Hero() {
           Hire me
         </a>
         <a
-          href="mailto:roshan@example.com"
+          href="yadavroshankumar8271@gmail.com"
           className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-muted text-foreground font-semibold rounded-full hover:bg-muted/80 transition-colors"
         >
           Send an Email
         </a>
         <a
-          href="#"
+          href="https://drive.google.com/file/d/1taKQVw5ZXdXbZdUgFcLPbns9EUG3pEOd/view?usp=drive_link"
           className="inline-flex items-center justify-center gap-2 px-6 py-3 border border-border bg-transparent text-foreground font-semibold rounded-full hover:bg-muted/50 transition-colors"
         >
           <FileText className="w-5 h-5" />
