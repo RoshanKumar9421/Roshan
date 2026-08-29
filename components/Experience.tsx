@@ -7,21 +7,21 @@ const experiences = [
     title: "UPchaar-Health Full Stack Developer-Intern",
     type: "Remote",
     date: "April 2026- Present",
-    logo: "https://placehold.co/100x100/png?text=IICPC",
+    logo: "/upchar.jpeg",
   },
   {
     id: 2,
     title: "Girl Script of Summer of Code 2025- Participant",
     type: "Remote",
     date: "August 2025 - October 2025",
-    logo: "https://placehold.co/100x100/png?text=IICPC",
+    logo: "/GirlScript.webp",
   },
   {
     id: 3,
     title: "HActoberFest 2025- Participant",
     type: "Remote",
     date: "October 2025 - October 2025",
-    logo: "https://placehold.co/100x100/png?text=SIH",
+    logo: "/hactoberfest2024.webp",
   },
 ];
 

@@ -8,7 +8,7 @@ export function Hero() {
       <div className="flex flex-col md:flex-row gap-8 items-start md:items-center w-full mb-8">
         <div className="relative w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden shrink-0 border-4 border-muted">
           <Image
-            src="/roshan.jpg"
+            src="/roshanpic.jpeg"
             alt="Roshan Profile Picture"
             fill
             className="object-cover"
