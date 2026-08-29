@@ -4,6 +4,7 @@ import { Socials } from "@/components/Socials";
 import { Experience } from "@/components/Experience";
 import { Projects } from "@/components/Projects";
 import { TechStack } from "@/components/TechStack";
+import { Heatmaps } from "@/components/Heatmaps";
 import { Footer } from "@/components/Footer";
 
 export default function Home() {
@@ -17,6 +18,7 @@ export default function Home() {
         <Experience />
         <Projects />
         <TechStack />
+        <Heatmaps />
       </main>
       <Footer />
     </>
