@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Roshan - Developer Portfolio",
+  title: "Roshan Kumar - Developer Portfolio",
   description: "DSA in CPP & Competitive Programmer And Learning Ai engineering.",
 };
 

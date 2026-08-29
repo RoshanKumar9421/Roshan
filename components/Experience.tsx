@@ -28,7 +28,7 @@ const experiences = [
 export function Experience() {
   return (
     <Section id="experience" className="py-12 md:py-16">
-      <h2 className="text-3xl font-bold mb-8 tracking-tight">Experience & Hackathons</h2>
+      <h2 className="text-3xl font-bold mb-8 tracking-tight">Experience</h2>
       <div className="flex flex-col gap-6">
         {experiences.map((exp) => (
           <div
